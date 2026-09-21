@@ -1,4 +1,4 @@
-# AWK Interpreter Manual (awk.nim)
+# AWK Interpreter Manual (sawk.nim)
 CC BY-NC-SA 4.0 - jean-marc "jihem" quere 2026 (sonaliwan.fr)
 
 ## Introduction
