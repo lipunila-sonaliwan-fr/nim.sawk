@@ -2200,11 +2200,11 @@ proc main() =
     restArgs.add(allArgs[i])
     inc i
   if not haveProgText:
-    stderr.writeLine("                   _    ");
-    stderr.writeLine(" _____      ____ _| | __");
-    stderr.writeLine("/ __\\ \\ /\\ / / _` | |/ /");
-    stderr.writeLine("\\__ \\\\ V  V / (_| |   < https://lipunila.sonaliwan.fr");
-    stderr.writeLine("|___/ \\_/\\_/ \\__,_|_|\\_\\1.0.2");
+    stderr.writeLine("                     _");
+    stderr.writeLine("  ___  __ ___      _| | __");
+    stderr.writeLine(" / __|/ _` \\ \\ /\\ / / |/ /");
+    stderr.writeLine(" \\__ \\ (_| |\\ V  V /|   < https://lipunila.sonaliwan.fr");
+    stderr.writeLine(" |___/\\__,_| \\_/\\_/ |_|\\_\\1.0.2");
     stderr.writeLine("usage: sawk [-F fs] [-v var=val] 'program' [file ...]")
     stderr.writeLine("       sawk [-F fs] [-v var=val] -f progfile [file ...]")
     quit(2)

@@ -14,11 +14,11 @@ awk version 20200816
 
 ../awk --version
 ```
-                   _
- _____      ____ _| | __
-/ __\ \ /\ / / _` | |/ /
-\__ \\ V  V / (_| |   < https://lipunila.sonaliwan.fr
-|___/ \_/\_/ \__,_|_|\_\1.0.2
+                    _
+ ___  __ ___      _| | __
+/ __|/ _` \ \ /\ / / |/ /
+\__ \ (_| |\ V  V /|   < https://lipunila.sonaliwan.fr
+|___/\__,_| \_/\_/ |_|\_\1.0.2
 usage: sawk [-F fs] [-v var=val] 'program' [file ...]
        sawk [-F fs] [-v var=val] -f progfile [file ...]
 ```
